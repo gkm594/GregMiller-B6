@@ -5,7 +5,10 @@ public class Day10HW1 { //please tell me in your comment how to include numOne a
 	public static void main(String[] args) {
 		
 		calculate(2.0, 4.0, '+');
-		
+/**
+ * 
+ * Hello.	
+ */
 	
 	}
 	public static void calculate(double numOne, double numTwo, char mathOperationSign) {
